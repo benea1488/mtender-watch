@@ -27,3 +27,14 @@ jobs:
           git add output/ data/
           git diff --cached --quiet || git commit -m "digest $(date -u +%F)"
           git push
+      - name: Send Email with Digest
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_APP_PASSWORD }}
+          subject: Raport Zilnic MTender Watch
+          to: benea.ionut@gmail.com
+          from: MTender Watch 
+          body: file://output/digest_achizitii.md
