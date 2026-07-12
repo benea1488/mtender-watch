@@ -1,0 +1,7 @@
+{
+  "min_value_mdl": 2000000,
+  "min_value_works_mdl": 5000000,
+  "watch_buyers": [],
+  "watch_cpv": [],
+  "lookback_days": 2
+}
