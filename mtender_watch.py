@@ -258,7 +258,7 @@ def main() -> int:
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(render(new_tenders, awarded, errors, cfg), encoding="utf-8")
     save_seen(cfg["state_file"], seen)
-    print(f"[ok] {len(awarded)} atribuiri, {len(new_tenders)} licitații noi -> {out}")
+    print(f"[ok] {len(awarded)} atribuiri, {len(new_tenders)} licitatii noi -> {out}")
     return 0
 
 
