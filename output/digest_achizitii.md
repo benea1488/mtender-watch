@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-08-23 05:16 UTC
+# Achiziții publice importante — 2026-08-24 05:26 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
