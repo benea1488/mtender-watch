@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-08-27 15:41 UTC
+# Achiziții publice importante — 2026-08-28 17:04 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -6,23 +6,17 @@ _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 _Nimic peste praguri în fereastra analizată._
 
 
-## 📣 Licitații noi / în derulare (6)
+## 📣 Licitații noi / în derulare (4)
 
-- **24.0 mln MDL** — Achiziționarea dispozitivelor medicale – ACCELERATOR LINEAR CU AUTOPROTECȚIE conform necesităților IMSP Institutul Oncologic  
-  Autoritate: CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE · openTender · CPV 33100000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787734883018](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787734883018)
-- **9.6 mln MDL** — Lucrări de reparatii a unor portiuni de drumuri din municipiul Ungheni  
-  Autoritate: Primăria mun. Ungheni · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787748908348](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787748908348)
-- **6.2 mln MDL** — Lucrări de reparații capitale interioare  
-  Autoritate: Primăria municipiului Cahul · openTender · CPV 45400000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787825902912](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787825902912)
-- **5.6 mln MDL** — Extinderea grupelor de creșă IET Nr. 1, IET Nr.8 și IET Nr.9  din orașul Drochia, raionul Drochia în cadrul Programului Național ”Servicii de Creșe Publice - Părinți angajați, Copii la Creșe”, ediția 2026  
-  Autoritate: Primaria orasului Drochia · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787728075594](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787728075594)
-- **3.8 mln MDL** — Servicii de elaborare a documentației de proiect și deviz pentru construcția noului sediu al Judecătoriei Cahul  și Curtea de Apel Sud  
-  Autoritate: AGENTIA DIGITALIZARE IN JUSTITIE SI ADMINISTRARE JUDECATOREA · openTender · CPV 71220000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787747565234](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787747565234)
-- **3.8 mln MDL** — Lucrări de plantare a arbuștilor pe tronsonul bd. Renașterii Naționale, mun. Chișinău  
-  Autoritate: Pretura sectorului Rascani · openTender · CPV 71400000-2 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1787767036007](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787767036007)
+- **17.5 mln MDL** — Achiziționarea medicamentului Emicizumabum, necesar IMSP Institutul Mamei și Copilului, pentru anul 2027  
+  Autoritate: CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE · openTender · CPV 33600000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1787922778500](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787922778500)
+- **15.1 mln MDL** — Produse petroliere   
+  Autoritate: I.M.S.P. CENTRUL NATIONAL DE ASISTENTA MEDICALA URGENTA PRES · openTender · CPV 09100000-0 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1787920561540](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787920561540)
+- **10.5 mln MDL** — Cărbune de marca AM ( antracit 13 - 25 mm)     
+  Autoritate: Administrația Națională a Penitenciarelor · openTender · CPV 09100000-0 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1779348340277](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1779348340277)
+- **2.7 mln MDL** — Lucrări pentru instalarea și punerea în funcțiune a sistemului de încălzire/răcire cu pompe de căldură  
+  Autoritate: Spitalul Clinic de Recuperare și Îngrijiri Cronice · openTender · CPV 42500000-1 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1787920652705](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787920652705)
