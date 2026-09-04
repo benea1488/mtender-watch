@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-09-03 09:24 UTC
+# Achiziții publice importante — 2026-09-04 09:23 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -6,17 +6,20 @@ _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 _Nimic peste praguri în fereastra analizată._
 
 
-## 📣 Licitații noi / în derulare (4)
+## 📣 Licitații noi / în derulare (5)
 
-- **9.0 mln MDL** — Lucrări de renovare a curților de bloc (amenajarea locurilor de parcare), etapa II din sectorul Botanica, mun. Chișinău  
+- **9.2 mln MDL** — Lucrări de renovare a trotuarelor str. Sarmizegetusa (tronson str. Burebista – str. Grădina Botanică) sectorul Botanica, mun. Chișinău  
   Autoritate: Pretura Botanica · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1788425458416](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788425458416)
-- **7.9 mln MDL** — Construcția și amenajarea străzii pietonale cu pistă pentru bicicliști în parcul din preajma Lacului orășenesc conform proiectului. „Green Urban Path in Drochia City (MD) and Săveni City (RO), PROIECT Interreg NEXT Programme Romania-Republic of Moldova”- financed by Interreg, ROMD00638.0 . REPETAT  
-  Autoritate: Primaria orasului Drochia · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1788352626794](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788352626794)
-- **5.2 mln MDL** — Achiziționarea autoturismelor  
-  Autoritate: Cadastrul Bunurilor Imobile · openTender · CPV 34100000-8 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1788423268398](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788423268398)
-- **3.3 mln MDL** — Licențe, întru asigurarea funcționalității echipamentelor CSOC  
-  Autoritate: Serviciul Tehnologii Informaționale al MAI · openTender · CPV 48200000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1788415511153](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788415511153)
+  [ocds-b3wdp1-MD-1788436964493](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788436964493)
+- **8.4 mln MDL** — Lucrări de reparație curentă a unor străzi și accese din sectorul Botanica, mun. Chișinău  
+  Autoritate: Pretura Botanica · openTender · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1788438811805](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788438811805)
+- **7.8 mln MDL** — Întreținerea și reparația curentă a drumurilor locale raionul Drochia 2026.  
+  Autoritate: CONSILIUL RAIONAL DROCHIA · directAward · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1788442846990](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788442846990)
+- **2.7 mln MDL** — Servicii de preparare și distribuire a hranei pentru copiii din Instituțiile Publice de Educație Timpurie din oraș, pentru trimestrul IV a anului 2026    
+  Autoritate: Primăria mun. Orhei · openTender · CPV 55500000-5 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1788430373455](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788430373455)
+- **2.0 mln MDL** — elaborarea documentației de proiect ”Constructia unor sectoare de străzi din comuna Truseni mun. Chisinău”  
+  Autoritate: Primăria Trușeni · openTender · CPV 71300000-1 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1788438043431](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788438043431)
