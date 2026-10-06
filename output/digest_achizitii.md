@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-10-05 12:01 UTC
+# Achiziții publice importante — 2026-10-06 11:52 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -8,21 +8,21 @@ _Nimic peste praguri în fereastra analizată._
 
 ## 📣 Licitații noi / în derulare (6)
 
-- **13.7 mln MDL** — Reabilitarea taluzului amonte a barajului lacului de acumulare Mingir  
-  Autoritate: Administrația Națională „Apele Moldovei” · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791185662847](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791185662847)
-- **6.3 mln MDL** — Lucrări pentru construcția sistemelor fixe de supraveghere a frontierei de stat pe segmentul de responsabilitate al Sectorului Poliției de Frontieră „Lipcani”, s. Pererîta, raionul Briceni  
-  Autoritate: Inspectoratul General al Poliției de Frontieră al MAI · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791179877796](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791179877796)
-- **6.1 mln MDL** — Услуги инжиниринговой и консалтинговой деятельности в области контроля качества строительных работ по объекту:  «Работы водоснабжения район Genclik мун. Комрат».  
-  Autoritate: PRIMARIA MUN.COMRAT · directAward · CPV 71200000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791195017911](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791195017911)
-- **2.2 mln MDL** — Produse lactate pentru semestrul I a.2027, LP  
-  Autoritate: IMSP SCM Sf.Treime · microValue · CPV 15500000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791187133766](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791187133766)
-- **2.2 mln MDL** — Produse lactate pentru semestrul I a.2027, LP  
-  Autoritate: IMSP SCM Sf.Treime · openTender · CPV 15500000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791188485724](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791188485724)
-- **2.1 mln MDL** — Produse lactate pentru semestrul I a.2027, LP  
-  Autoritate: IMSP SCM Sf.Treime · openTender · CPV 15500000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1791183813495](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791183813495)
+- **14.8 mln MDL** — „Achiziționarea medicamentelor necesare instituțiilor medico-sanitare publice (IMSP) și instituțiilor bugetare care prestează servicii medicale și sociale pentru anul 2027 (Lista de bază, repetat nr. 2)”  
+  Autoritate: CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE · openTender · CPV 33600000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791212700562](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791212700562)
+- **14.8 mln MDL** — „Achiziționarea medicamentelor necesare instituțiilor medico-sanitare publice (IMSP) și instituțiilor bugetare care prestează servicii medicale și sociale pentru anul 2027 (Lista de bază, repetat nr. 2)”  
+  Autoritate: CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE · openTender · CPV 33600000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791275353696](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791275353696)
+- **7.4 mln MDL** — Produse petroliere  
+  Autoritate: Aeroportul International Chisinau · openTender · CPV 09100000-0 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791276457328](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791276457328)
+- **7.0 mln MDL** — Reparația capitală a subsolului a clădirii publice administrative în or.Căușeni, Căușenii Noi, bd.Mihai Eminescu nr.31  
+  Autoritate: Consiliul Raional Causeni · openTender · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791206835285](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791206835285)
+- **5.5 mln MDL** — Lucrări de reparație capitală a străzii Școlii din com. Bubuieci, mun. Chișinău  
+  Autoritate: Primaria com. Bubuieci · openTender · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791280531348](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791280531348)
+- **2.2 mln MDL** — Automacara_repetat  
+  Autoritate: Asociatia de gospodarire a spatiilor verzi · openTender · CPV 42410000-3 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1791207939724](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791207939724)
