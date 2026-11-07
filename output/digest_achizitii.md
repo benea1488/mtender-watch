@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-11-06 12:51 UTC
+# Achiziții publice importante — 2026-11-07 11:35 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -6,26 +6,11 @@ _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 _Nimic peste praguri în fereastra analizată._
 
 
-## 📣 Licitații noi / în derulare (7)
+## 📣 Licitații noi / în derulare (2)
 
-- **75.0 mln MDL** — Lucrări de restaurare a fațadelor și reconstrucția acoperișului clădirii Primăriei municipiului Chișinău din bd. Ștefan cel Mare și Sfînt 83  
-  Autoritate: I.M. DIRECTIA CONSTRUCTII CAPITALE A PRIMARIEI MUN. CHISINAU · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793948223243](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793948223243)
-- **75.0 mln MDL** — Lucrări de restaurare a fațadelor și reconstrucția acoperișului clădirii Primăriei municipiului Chișinău din bd. Ștefan cel Mare și Sfînt 83  
-  Autoritate: I.M. DIRECTIA CONSTRUCTII CAPITALE A PRIMARIEI MUN. CHISINAU · openTender · CPV 45200000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793950270173](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793950270173)
-- **5.4 mln MDL** — Combustibili  
-  Autoritate: Întreprinderea de Stat Întreprinderea pentru Silvicultură Orhei · openTender · CPV 09100000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793965255851](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793965255851)
-- **4.2 mln MDL** — Produse Alimentare pentru anul 2027   
-  Autoritate: IMSP Institutul de Ftiziopneumologie "Chiril Draganiuc" · openTender · CPV 15800000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793888093511](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793888093511)
-- **3.1 mln MDL** — Servicii de pază fizică pentru anul 2027  
-  Autoritate: Casa Națională de Asigurări Sociale · openTender · CPV 79700000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793957824115](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793957824115)
-- **3.1 mln MDL** — Servicii de pază fizică pentru anul 2027  
-  Autoritate: Casa Națională de Asigurări Sociale · openTender · CPV 79700000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793963349334](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793963349334)
-- **2.6 mln MDL** — Produse alimentare pentru anul 2027, Legume si fructe semestrul I 2027  
-  Autoritate: IMSP Spitalul Raional Drochia "Nicolae Testemitanu" · openTender · CPV 15800000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1793885050983](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793885050983)
+- **14.2 mln MDL** — Servicii de proiectare pentru ”Construirea Complexului de clădiri pentru IP USMF ”Nicolae Testemițanu” din str. N. Testemițanu 18/13, mun. Chișinău”  (etapa I)  
+  Autoritate: IP Universitatea de Stat de Medicină și Farmacie ”Nicolae Testemițanu” · openTender · CPV 71300000-1 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1793975354967](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793975354967)
+- **5.1 mln MDL** — Lucrări privind modernizarea postului de transformare PT-16 nr.inv.680 și PT-21 nr. inv. 1742   ca parte a reconstrucției Aeroportului Internațional Chișinău   
+  Autoritate: Aeroportul International Chisinau · openTender · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1793973889241](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793973889241)
