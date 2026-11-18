@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-11-17 14:14 UTC
+# Achiziții publice importante — 2026-11-18 13:44 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -8,33 +8,33 @@ _Nimic peste praguri în fereastra analizată._
 
 ## 📣 Licitații noi / în derulare (10)
 
-- **14.3 mln MDL** — Servicii de întreţinere, reparare şi înlăturare a defecţiunilor pentru cinci  sisteme de control a containerelor si camioanelor cu mărfuri  prin scanare cu raze X -  Rapiscan Eagle M4507  
-  Autoritate: Serviciul Vamal · openTender · CPV 50800000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794914500319](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794914500319)
-- **10.7 mln MDL** — Serviciilor de curățenie și igienizare în mediu urban,  rural și servicii conexe în primaria orașului Rezina pentru anul 2027  
-  Autoritate: Primaria or. Rezina · openTender · CPV 90600000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794903692956](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794903692956)
-- **10.7 mln MDL** — Serviciilor de curățenie și igienizare în mediu urban,  rural și servicii conexe în primaria orașului Rezina pentru anul 2027  
-  Autoritate: Primaria or. Rezina · openTender · CPV 90600000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794904070152](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794904070152)
-- **5.8 mln MDL** — Echipament militar pentru anul 2027  
-  Autoritate: Inspectoratul General de Carabinieri al MAI · openTender · CPV 18100000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794922294765](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794922294765)
-- **4.6 mln MDL** — Servicii de spălătorie şi închiriere a lenjeriei pentru a.2027.       
-  Autoritate: IMSP Spitalul Clinic Bălți · openTender · CPV 98300000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794904092365](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794904092365)
-- **3.6 mln MDL** — Produse petroliere (benzină și motorină) pentru anul 2027  
-  Autoritate: Inspectoratul General de Carabinieri al MAI · openTender · CPV 09100000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794838371137](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794838371137)
-- **3.0 mln MDL** — Echipamente și servicii pentru modernizarea Centrului de Date al IP Universității de Stat de Medicina si Farmacie “N.Testemitanu” din Moldova  
-  Autoritate: IP Universitatea de Stat de Medicină și Farmacie ”Nicolae Testemițanu” · openTender · CPV 48800000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794902162270](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794902162270)
-- **2.9 mln MDL** — Achiziționarea consumabilelor medicale de protecție pentru anul 2027 (subsecvent 10)  
+- **33.4 mln MDL** — „Reabilitarea sistemului de apeduct și construcția sistemului de canalizare în sectoarele «Malina», «Taiwani/Centru», «Cogîlnic», s. Bogdanovca Veche și s. Bogdanovca Nouă din orașul Cimișlia”   
+  Autoritate: Agenția de Dezvoltare Regională Sud · openTender · CPV 45330000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794924895108](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794924895108)
+- **18.7 mln MDL** — Privind achiziționarea de lucrări a unor sectoare de drum din str.A.Păunescu, str.-la 1 Plopilor, str.N.Dimo-M.Odatiuc L=229,15m), str.N.Dimo L=178,85 m), str.Teiului, str.Gurie Grosu, str.Ștefan Ciobanu din or Durlești   
+  Autoritate: Primaria or. Durlesti · openTender · CPV 45200000-9 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794925399736](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794925399736)
+- **13.5 mln MDL** — Servicii de expertiză (autorizare, variații postautorizare, studii clinice și amendamente la studii clinice) pentru anul 2027  
+  Autoritate: AGENTIA MEDICAMENTULUI SI DISPOZITIVELOR MEDICALE · openTender · CPV 73110000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794924786803](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794924786803)
+- **6.3 mln MDL** — Reactive și consumabile pentru detectarea AND -lui și diferențierea tipurilor 16, 18 a papiloma-virusului uman (HPV) și alte (12 tipuri) compatibil cu sistem PCR complet automat cobas 5800  
+  Autoritate: IMSP CRDM · openTender · CPV 33600000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794926113858](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794926113858)
+- **3.5 mln MDL** — Achiziționarea serviciilor de cazare pentru anul 2027  
+  Autoritate: AGENTIA NATIONALA PENTRU CURRICULUM SI EVALUARE · openTender · CPV 98300000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794993073956](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794993073956)
+- **3.5 mln MDL** — Achiziționarea serviciilor de cazare pentru anul 2027  
+  Autoritate: AGENTIA NATIONALA PENTRU CURRICULUM SI EVALUARE · openTender · CPV 98300000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795003595802](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795003595802)
+- **3.5 mln MDL** — Achiziționarea serviciilor de cazare pentru anul 2027  
+  Autoritate: AGENTIA NATIONALA PENTRU CURRICULUM SI EVALUARE · openTender · CPV 98340000-8 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795006347165](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795006347165)
+- **3.4 mln MDL** — Servicii poștale  
+  Autoritate: Apă-Canal Chişinău · openTender · CPV 64100000-7 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794984610562](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794984610562)
+- **3.3 mln MDL** — Achiziționarea dispozitivelor medicale conform necesităților instituțiilor medico-sanitare publice (Lista Suplimentară 54)   
   Autoritate: CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE · openTender · CPV 33100000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794919844848](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794919844848)
-- **2.9 mln MDL** — Servicii de mentenanță, întreținere și reparație a sistemelor de depistare a substanțelor radioactive  
-  Autoritate: Serviciul Vamal · openTender · CPV 50800000-3 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1794914987291](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794914987291)
-- **2.1 mln MDL** — Elaborarea Planului Urbanistic General al orașului Sîngerei  
-  Autoritate: Primaria Singerei · openTender · CPV 98100000-4 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1778223720862](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1778223720862)
+  [ocds-b3wdp1-MD-1794997809634](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794997809634)
+- **2.7 mln MDL** — Текущее содержание дорог в зимние месяцы 2027 года  
+  Autoritate: Directia Generala de Constructii si Infrastructura al Gagauziei · openTender · CPV 90600000-3 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1794988908560](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794988908560)
