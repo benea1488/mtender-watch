@@ -1,4 +1,4 @@
-# Achiziții publice importante — 2026-11-20 13:54 UTC
+# Achiziții publice importante — 2026-11-21 13:10 UTC
 _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 
 ## 🏆 Contracte atribuite / finalizate (0)
@@ -6,26 +6,17 @@ _Praguri: ≥2 000 000 MDL bunuri/servicii  ≥5 000 000 MDL lucrări._
 _Nimic peste praguri în fereastra analizată._
 
 
-## 📣 Licitații noi / în derulare (7)
+## 📣 Licitații noi / în derulare (4)
 
-- **71.4 mln MDL** — Produse petroliere pentru anul 2027  
-  Autoritate: I.M.S.P. CENTRUL NATIONAL DE ASISTENTA MEDICALA URGENTA PRES · openTender · CPV 09100000-0 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795098455974](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795098455974)
-- **23.7 mln MDL** — Produse petroliere pentru anul 2027  
-  Autoritate: Direcţia Generală Locativ Comunală şi Amenajare · openTender · CPV 09200000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795179411737](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795179411737)
-- **4.7 mln MDL** — Rețea Wi-Fi 7 și sisteme de securitate cibernetică, inclusiv servere și stocare.   
-  Autoritate: Aeroportul International Chisinau · openTender · CPV 30200000-1 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795161261089](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795161261089)
-- **4.2 mln MDL** — Servicii de transport persoane (transportarea angajaților domiciliu-serviciu-domiciliu)  
-  Autoritate: Aeroportul International Chisinau · openTender · CPV 60100000-9 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795160772518](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795160772518)
-- **4.1 mln MDL** — „Sistem de comunicații radio mobile pentru fregvențe aeriene (aviatice), cu echipamente și accesorii aferente.” (Procedură de achiziție repetată)  
-  Autoritate: Aeroportul International Chisinau · openTender · CPV 31600000-2 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795153269083](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795153269083)
-- **2.3 mln MDL** — Reagenți pentru analizatoare și teste rapide pentru I semestru anul 2027  
-  Autoritate: Serviciul medical al MAI · openTender · CPV 33600000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795162638541](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795162638541)
-- **2.2 mln MDL** — Servicii de spălare a lengeriei specifice institutiilori medicale pentru perioada anului 2027  
-  Autoritate: IMSP SCM Gheorghe Paladi · openTender · CPV 98300000-6 · Termen oferte: ?  
-  [ocds-b3wdp1-MD-1795174833341](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795174833341)
+- **15.4 mln MDL** — Reagenți și consumabilelor pentru detectarea AND -lui și diferențierea tipurilor 16, 18 a papiloma-virusului uman (HPV) și alte (12 tipuri) compatibil cu sistem PCR complet automat cobas 5800  
+  Autoritate: IMSP CRDM · openTender · CPV 33600000-6 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795185103410](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795185103410)
+- **14.8 mln MDL** — Reabilitarea taluzului amonte a barajului lacului de acumulare Mingir  
+  Autoritate: Administrația Națională „Apele Moldovei” · openTender · CPV 45240000-1 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795200249579](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795200249579)
+- **10.0 mln MDL** — Echipament pentru extinderea și integrarea sistemului de supraveghere video existent și implementarea sistemului de detecție perimetrală (PIDS)  
+  Autoritate: Aeroportul International Chisinau · openTender · CPV 35100000-5 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795188913501](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795188913501)
+- **3.8 mln MDL** — Servicii catering      
+  Autoritate: Agenția Teritorială pentru Educație Orhei · openTender · CPV 55500000-5 · Termen oferte: ?  
+  [ocds-b3wdp1-MD-1795183268329](https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795183268329)
